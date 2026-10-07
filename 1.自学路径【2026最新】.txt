@@ -1,0 +1,37 @@
+1.linux阶段学习
+
+https://www.bilibili.com/video/BV1Eu4y1F7os/?spm_id_from=333.999.0.0&vd_source=458f87abdc16fe5603ee0193a3c29a7c
+
+学到Day11-14即可，后面shell学完也行，看你时间，个人建议后面shell部分，走马观花即可，知道脚本大体怎么回事就好，怎么运行，大概语法结构，不需要死磕，不要感动自己，实施对于脚本的要求不高，知道怎么用就行，等入了职，你再研究！
+
+2.SQL部分学习
+
+宋红康 (MySQL数据库教程) https://www.bilibili.com/video/BV1iq4y1u7vj
+基础篇：P1 - P95
+高级篇：P96 - P199
+
+赶时间的话，刷完 P1 - P58，但是建议刷完P95
+
+课件地址：
+通过网盘分享的文件：尚硅谷宋红康基础+高级mysql笔记.zip
+链接: https://pan.baidu.com/s/1n6ms83B1ewSeRCp20aQEtw?pwd=yp5k 提取码: yp5k 
+
+
+3.nginx
+
+【【狂神说】Nginx最新教程通俗易懂，40分钟搞定！】 https://www.bilibili.com/video/BV1F5411J7vK/?share_source=copy_web&vd_source=3de1c1bdd26f4740ff21d98ef30199e9
+
+4.tomcat
+
+链接: https://pan.baidu.com/s/1QtEMuefB66BsRJeIOL0HjQ?pwd=aeb1 
+提取码: aeb1 
+
+
+5.网络基础知识
+
+【网络基础知识】 https://www.bilibili.com/video/BV1nr4y1s7Wv/?share_source=copy_web&vd_source=3de1c1bdd26f4740ff21d98ef30199e9
+
+
+6.oracle
+
+https://www.bilibili.com/video/BV1GN4y127CU/?spm_id_from=333.337.search-card.all.click&vd_source=458f87abdc16fe5603ee0193a3c29a7c
